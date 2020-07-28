@@ -1,0 +1,20 @@
+body{
+    margin: 10px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: grey;
+}
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 50px;
+    font-size: 50px;
+
+}
+.topnav a.active {
+    background-color: greenyellow;
+    color: blue;
+}
